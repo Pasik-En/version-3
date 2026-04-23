@@ -8,3 +8,7 @@ body{
     background-color: blue;
     color: white;
 }
+
+button {
+    background-color: yellow;
+}
